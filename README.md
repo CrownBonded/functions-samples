@@ -1,5 +1,7 @@
 # Cloud Functions for Firebase Sample Library
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CrownBonded/functions-samples.svg)](https://greenkeeper.io/)
+
 This repository contains a collection of samples showcasing some typical uses of [Cloud Functions for Firebase](https://firebase.google.com/features/functions).
 
 ### What's Cloud Functions for Firebase?
